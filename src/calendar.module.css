@@ -1,0 +1,58 @@
+.container {
+    position: relative;
+    padding: 20px;
+}
+
+.arrow {
+    position: absolute;
+    font-size: 18px;
+    color: black;
+}
+
+.leftArrow {
+    left: 10px;
+}
+
+.rightArrow {
+    right: 10px;
+}
+
+.disabledArrow {
+    color: gray;
+}
+
+.weekContainer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.dayContainer {
+    text-align: center;
+    margin: 10px;
+}
+
+.dayText {
+    font-size: 16px;
+}
+
+.dayText span {
+    font-weight: bold;
+}
+
+.scheduleContainer {
+    margin: 5px 0;
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.scheduleContainer:hover {
+    color: white;
+    background-color: black;
+}
+
+.scheduleText {
+    font-size: 14px;
+}
+
+  
