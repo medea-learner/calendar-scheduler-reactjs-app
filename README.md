@@ -25,3 +25,28 @@ First, clone the repository from GitHub:
 git clone https://github.com/medea-learner/test-calendar-react-js-app
 cd test-calendar-react-js-app
 ```
+### Installation
+Install the dependencies using npm or Yarn:
+
+```bash
+# Using npm
+npm install
+
+# Using Yarn
+yarn install
+```
+
+### Running the Project
+Start the development server:
+
+```bash
+# Using npm
+npm start
+
+# Using Yarn
+yarn start
+```
+The application will automatically open in your default web browser. If it doesn't, navigate to `http://localhost:3000` to view it
+
+## License
+This project is licensed under the MIT License.
